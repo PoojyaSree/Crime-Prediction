@@ -1,5 +1,5 @@
 # Crime-Prediction
-Predicting the Crime of a particular region
+Predicting the Crime of a particular region-
 Me and my team had done the project that could predict the crime of a particular region using machine learning.Our system can predict have high probability 
 for crime occurrence in a region.Using the concept of Machine Learning  we can extract previously unknown, useful information from an 
 structured data. The main scope of the project is to predict the crime rate in a particular region based on the historic data and visualize 
